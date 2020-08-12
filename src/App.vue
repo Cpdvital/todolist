@@ -2,9 +2,9 @@
   <div id="app">
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
-        <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3 by Glaucia Lemos</h1>
-        <h2 class="ui inverted header">Sidney Almeida
-          <div class="sub header">Analista de Sistemas</div>
+        <h1 class="ui inverted header">Aplicação Todo List com Vue.js 3</h1>
+        <h2 class="ui inverted header">CI/CD SWA no Azure
+          <div class="sub header">By Sidney Almeida</div>
         </h2>
         <h3 class="ui inverted header">São Paulo, Brasil - 2020</h3>
         <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/cpdvital">
